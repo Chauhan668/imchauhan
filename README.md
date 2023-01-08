@@ -1,6 +1,6 @@
    ### Hole,I am Basant Chauhan👋
    
-🌱 I’m currently learning Python And Djnago.
+🌱 I’m currently learning Python And Django.
 🔭 I’m currently looking for a job in Python and Django
 🤔 I’m looking for work with who having much of Expreience about python and Django.
 💬 Ask me about Python and Django or any tech-related stuff.
